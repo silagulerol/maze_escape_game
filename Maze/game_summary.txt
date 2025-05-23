@@ -1,0 +1,24 @@
+=== Final Game Summary ===
+Total Turns: 100
+
+Agent 0:
+ - Total Moves: 6
+ - Backtracks: 1
+ - Traps Triggered: 1
+ - Power-Ups Used: 8
+ - Max Stack Depth: 2
+ - Reached Goal: false
+ - Move History:
+in the 1. position: (1,0 )
+
+Agent 1:
+ - Total Moves: 12
+ - Backtracks: 8
+ - Traps Triggered: 2
+ - Power-Ups Used: 0
+ - Max Stack Depth: 4
+ - Reached Goal: false
+ - Move History:
+
+
+End of simulation.
