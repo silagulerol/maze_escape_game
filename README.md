@@ -1,14 +1,13 @@
 
 ---
 
-## ✅ 4. `maze_escape_game`
+`maze_escape_game`
 
 ```markdown
 # Maze Escape Game
 
 A Java-based terminal game where a player navigates through a maze to reach the goal.
 
-> 🚧 **Note:** This game is currently in development and not feature-complete.
 
 ## Features
 - Procedural maze generation
